@@ -14,6 +14,11 @@
 |---|---|---|---|---|---|
 | WiCS | SDE Intern | Austin | 9/10/2020 | www.cs.utexas.edu/~wics | A test |
 
+## Pre-Internship Programs
+|Name |	Dates	| Link	| Open yet?	| Deadline	| All expenses paid?|	Notes|
+|---|---|---|---|---|---|---|
+| WiCS | SDE Intern | Austin | 9/10/2020 | www.cs.utexas.edu/~wics | A test |
+
 ## Volunteering
 | Event | Date | Location | Activity | Link  | Notes |
 |---|---|---|---|---|---|
