@@ -29,7 +29,21 @@
 |Twitter #DevelopHER	| 6/1-6/2	| https://takeflight2020.splashthat.com/	| Yes	 | 4/5 |	Yes	 | For second year CS/CE students |
 |Twitter #TechProud	 | 6/4-6/5	| https://takeflight2020.splashthat.com/ |	Yes	 | 4/5 | Yes	| For second year CS students who identify as LGBTQIA. Not women specific. | 
 |#BUILTBYGIRLS WAVE	|Year round |	https://www.builtbygirls.com/about-wave |	Yes	| Rolling	 | No expense needed	 | Remote mentorship program.|
-| Square College Code Camp |	Summer - TBD	| https://squareup.com/us/en/code-camp |	No	| TBD	| Yes | |
+|PNC STEAM Summit |	10/10-10/11	| https://www.pnc.com/en/about-pnc/careers/students/student-events.html	| No |	TBD |	TBD |	Not women specific. Not tech specific. |
+|Capital One Software Engineering Summit |	Jan, May or Aug 2020	| https://campus.capitalone.com/summits/	| No	| TBD	 | TBD	| For current college freshmen and sophomores. Not women specific. | 
+|MongoDB WiCS Summit |	Spring 2020 TBD	| https://mongodbswicssummit.splashthat.com/	| No	| TBD |	Yes	| Open to freshman and sophomores in CS/related fields. |
+|Morgan Stanley Technology Early Insights	| Spring 2020 TBD |	https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology/technology-showcase-north-america/ |	No |	TBD	 |No | |	
+|Bank of America Spring Diversity and Inclusion Forums |	Spring 2020 TBD |	https://campus.bankofamerica.com/careers/bank_of_america_spring_diversity_and_inclusion_forum.html |	No	 | TBD	| TBD |	For current female and ethnically diverse freshmen and sophomores. Not women specific. Not all are tech specific.|
+|Target Women in Tech Symposium |	Summer 2020 TBD	 | TBD	| No	| TBD	| TBD	| For current college sophomores. Guaranteed interview for Target 2020 SWE internship. |
+|Goldman Sachs Engineering Essentials	 | Summer 2020 TBD	| https://www.goldmansachs.com/careers/students/programs/americas/engineering-essentials.html	 | No	| TBD |	Yes |	Applicants should be black, Hispanic/Latino, Native American and/or women. Not women specific. |
+|Pinterest Engage |	Summer 2020 TBD | TBD | No |	TBD	 | No	| Not women specific.|
+|VMWare CodeHouse Palo Alto	| Summer 2020 TBD	| https://pages.beamery.com/vmware/page/codehouse	 | No	| TBD	 | Yes| |	
+|VMWare CodeHouse Atlanta	| Summer 2020 TBD | https://pages.beamery.com/vmware/page/codehouseatl |	No |	TBD	 | Yes |	For CS/Computer Engineering female students who identify as Black and Latina. |
+|Square College Code Camp	| Summer 2020 TBD	| https://squareup.com/us/en/code-camp	| No	| TBD | Yes | |	
+|Piazza Careers Tech Tour	| Summer 2020 TBD	| TBD |	No | TBD | Yes	| Not women specific. |
+|Red Ventures Summit |	Summer 2020 TBD | TBD |	No	| TBD	| TBD | |	
+|O4U Tech Conference	| Fall 2020 TBD	| https://www.outforundergrad.org/tech	| No	| TBD	| TBD |	Not women specific. For LGBTQ+ students. |
+|Code2040 Tech Trek |	TBD	| http://www.code2040.org/tech-trek	 | No |	TBD	| TBD |	Candidates must self-identify as Black and/or Latinx. |
 
 ## Volunteering
 | Event | Date | Location | Activity | Link  | Notes |
