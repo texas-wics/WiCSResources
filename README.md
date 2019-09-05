@@ -25,6 +25,7 @@
 |PNC Women in Business Summit |	9/26-9/27 |	https://www.pnc.com/en/about-pnc/careers/students/student-events.html	| Yes	| 9/6	 | Yes |	Business or Technology major with 3.0 GPA or higher. |
 |Twitter #FirstFlight	| 10/24-10/25 |	https://firstflight2020.splashthat.com/	| Yes |	9/24	| Yes	| For current third year students who identify as black, Hispanic/Latinx and/or Native American. All candidates will interview for internships. Not women specific. |
 |Jane Street INSIGHT |	1/6-1/11 |	https://www.janestreet.com/insight/ |	Yes |	10/20 |	Yes | |
+| NRF Foundation Student Program | 1/8-1/12 | https://studentbigshow.nrf.com/free-travel-application | Yes | | Yes | For sophomores, juniors and seniors. Mininum GPA of 3.0 on a 4.0 scale. |
 |Twitter #Early Bird |	5/18-5/22	| https://takeflight2020.splashthat.com/ | Yes	| 4/5	| Yes |	For first year CS students who identify as black, Hispanic/Latinx and/or Native American. Not women specific. |
 |Twitter #DevelopHER	| 6/1-6/2	| https://takeflight2020.splashthat.com/	| Yes	 | 4/5 |	Yes	 | For second year CS/CE students |
 |Twitter #TechProud	 | 6/4-6/5	| https://takeflight2020.splashthat.com/ |	Yes	 | 4/5 | Yes	| For second year CS students who identify as LGBTQIA. Not women specific. | 
