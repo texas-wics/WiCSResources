@@ -11,6 +11,7 @@
 | JP Morgan Code for Good | Varies | 9/10 | Chicago, IL / Columbus, OH / Houston, TX / New York Metro / Newark/Wilmington, DE / Plano, TX / San Francisco, CA / Seattle, WA / Tampa, FL| https://careers.jpmorgan.com/us/en/students/programs/code-for-good | Yes | Can lead to internships and full time |
 | HackUTD |	11/9-11/10	|	| Richardson, TX	| https://www.hackutd.co/	| Yes | |
 | HackRice |	9/20-9/22 |	Rolling |	Houston, TX	| https://hack.rice.edu/	| Yes | |
+| HackTX |	11/2-11/3 |	Rolling |	Austin, TX	| https://hacktx.com	| Yes | |
 
 
 ## Scholarships
